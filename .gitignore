@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pychae__
+codein
+db.sqlite3
+/static
+.DS_Store
